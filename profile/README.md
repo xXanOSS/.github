@@ -7,10 +7,6 @@
 - And more dumb stuff
 
 ---
-<h3 align="center">Our projects</h3>
-
-- [GoShGa](https://github.com/xano2/GoShGa), A game made with [Godot](https://github.com/godotengine/godot). (Halt.)
-- [Windows Batch Optimizer](https://github.com/xano2/Optimizer-Batch-Installation), A batch script that removes all of that bloat on your Windows computer. (Changing to AME Playbook.)
 
 <h2 align="center">Official (XANOS) Minecraft Cape</h2>
 <p align="center">
